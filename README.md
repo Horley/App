@@ -1,2 +1,2 @@
  App
-criei este repositorio como o objetivo de organizar sistema de rastreamento veicular 
+criei este repositorio com o objetivo de organizar sistema de rastreamento veicular 
